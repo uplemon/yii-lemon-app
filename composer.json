@@ -1,0 +1,16 @@
+{
+    "name": "uplemon/yii-lemon-app",
+    "description": "Yii2 Project Template",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.0",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
